@@ -1,0 +1,15 @@
+@import 'header';
+@import 'footer';
+$verde:#090;
+
+body {
+  background-color: purple;
+}
+
+h1 {
+  color: white;
+}
+h2{
+
+  color: red($color: #000000);
+}
